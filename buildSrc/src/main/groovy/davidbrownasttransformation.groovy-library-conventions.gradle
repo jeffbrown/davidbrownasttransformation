@@ -1,0 +1,4 @@
+plugins {
+    id 'davidbrownasttransformation.groovy-common-conventions'
+    id 'java-library'
+}

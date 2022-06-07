@@ -1,0 +1,16 @@
+plugins {
+    id 'groovy'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    constraints {
+        implementation 'org.codehaus.groovy:groovy-all:2.4.12'
+    }
+
+    implementation 'org.codehaus.groovy:groovy-all'
+}
+

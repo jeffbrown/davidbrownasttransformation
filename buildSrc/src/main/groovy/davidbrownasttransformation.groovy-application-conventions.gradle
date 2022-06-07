@@ -1,0 +1,5 @@
+
+plugins {
+    id 'davidbrownasttransformation.groovy-common-conventions'
+    id 'application'
+}
